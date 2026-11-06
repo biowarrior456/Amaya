@@ -218,4 +218,4 @@ Amaya is available as a full free version with all features and updates included
 Start building your website today with Amaya! Download now and unleash your creativity!
 
 ---
-**Last updated:** 2026-11-05 19:39:13 UTC
+**Last updated:** 2026-11-06 00:49:30 UTC
